@@ -15,6 +15,7 @@
       "east": 84.079808
     },
     "defaultRadius": 5000,
+    "size": 1144,
     "metadata": {
       "population": 630000,
       "area": 322,
@@ -38,6 +39,7 @@
       "east": 61.736843
     },
     "defaultRadius": 5000,
+    "size": 1932,
     "metadata": {
       "population": 1150000,
       "area": 530,
@@ -61,6 +63,7 @@
       "east": 60.897465
     },
     "defaultRadius": 5000,
+    "size": 3356,
     "metadata": {
       "population": 1500000,
       "area": 495,
@@ -84,6 +87,7 @@
       "east": 53.506498
     },
     "defaultRadius": 5000,
+    "size": 832,
     "metadata": {
       "population": 650000,
       "area": 420,
@@ -107,6 +111,7 @@
       "east": 39.275313
     },
     "defaultRadius": 5000,
+    "size": 2180,
     "metadata": {
       "population": 950000,
       "area": 340,
@@ -130,6 +135,7 @@
       "east": 93.193248
     },
     "defaultRadius": 5000,
+    "size": 1264,
     "metadata": {
       "population": 1100000,
       "area": 379,
@@ -153,6 +159,7 @@
       "east": 49.408891
     },
     "defaultRadius": 5000,
+    "size": 3904,
     "metadata": {
       "population": 1250000,
       "area": 425,
@@ -176,6 +183,7 @@
       "east": 37.9173
     },
     "defaultRadius": 5000,
+    "size": 27684,
     "metadata": {
       "population": 12600000,
       "area": 2561,
@@ -199,6 +207,7 @@
       "east": 44.305986
     },
     "defaultRadius": 5000,
+    "size": 2240,
     "metadata": {
       "population": 1200000,
       "area": 411,
@@ -222,6 +231,7 @@
       "east": 83.235732
     },
     "defaultRadius": 5000,
+    "size": 2480,
     "metadata": {
       "population": 1600000,
       "area": 505,
@@ -245,6 +255,7 @@
       "east": 73.624236
     },
     "defaultRadius": 5000,
+    "size": 2084,
     "metadata": {
       "population": 1100000,
       "area": 572,
@@ -268,6 +279,7 @@
       "east": 56.529443
     },
     "defaultRadius": 5000,
+    "size": 1496,
     "metadata": {
       "population": 1000000,
       "area": 800,
@@ -291,6 +303,7 @@
       "east": 40.020348999999996
     },
     "defaultRadius": 5000,
+    "size": 1552,
     "metadata": {
       "population": 1100000,
       "area": 348,
@@ -314,6 +327,7 @@
       "east": 50.401782999999995
     },
     "defaultRadius": 5000,
+    "size": 2124,
     "metadata": {
       "population": 1150000,
       "area": 382,
@@ -337,6 +351,7 @@
       "east": 30.615868
     },
     "defaultRadius": 5000,
+    "size": 15636,
     "metadata": {
       "population": 5400000,
       "area": 1439,
@@ -360,6 +375,7 @@
       "east": 46.334157999999995
     },
     "defaultRadius": 5000,
+    "size": 1156,
     "metadata": {
       "population": 850000,
       "area": 394,
@@ -383,6 +399,7 @@
       "east": 65.841227
     },
     "defaultRadius": 5000,
+    "size": 1280,
     "metadata": {
       "population": 850000,
       "area": 235,
@@ -406,6 +423,7 @@
       "east": 56.258727
     },
     "defaultRadius": 5000,
+    "size": 2072,
     "metadata": {
       "population": 1100000,
       "area": 708,
@@ -429,6 +447,7 @@
       "east": 44.816975
     },
     "defaultRadius": 5000,
+    "size": 1288,
     "metadata": {
       "population": 1000000,
       "area": 565,
@@ -452,6 +471,7 @@
       "east": 39.500584999999994
     },
     "defaultRadius": 5000,
+    "size": 2236,
     "metadata": {
       "population": 1000000,
       "area": 596,
