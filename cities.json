@@ -1,0 +1,462 @@
+[
+  {
+    "code": "brn",
+    "name": "Барнаул",
+    "description": "База данных магазинов Барнаул",
+    "timezone": "Asia/Barnaul",
+    "center": {
+      "latitude": 53.347996,
+      "longitude": 83.779808
+    },
+    "bounds": {
+      "north": 53.647996,
+      "south": 53.047996000000005,
+      "west": 83.479808,
+      "east": 84.079808
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 630000,
+      "area": 322,
+      "createdAt": "2026-01-09T14:08:06.391Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "chlb",
+    "name": "Челябинск",
+    "description": "База данных магазинов Челябинск",
+    "timezone": "Asia/Yekaterinburg",
+    "center": {
+      "latitude": 55.164442,
+      "longitude": 61.436843
+    },
+    "bounds": {
+      "north": 55.464442,
+      "south": 54.864442000000004,
+      "west": 61.136843000000006,
+      "east": 61.736843
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1150000,
+      "area": 530,
+      "createdAt": "2026-01-09T14:08:06.393Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "ekb",
+    "name": "Екатеринбург",
+    "description": "База данных магазинов Екатеринбург",
+    "timezone": "Asia/Yekaterinburg",
+    "center": {
+      "latitude": 56.838011,
+      "longitude": 60.597465
+    },
+    "bounds": {
+      "north": 57.138011,
+      "south": 56.538011000000004,
+      "west": 60.297465,
+      "east": 60.897465
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1500000,
+      "area": 495,
+      "createdAt": "2026-01-09T14:08:06.394Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "izh",
+    "name": "Ижевск",
+    "description": "База данных магазинов Ижевск",
+    "timezone": "Europe/Samara",
+    "center": {
+      "latitude": 56.849397,
+      "longitude": 53.206498
+    },
+    "bounds": {
+      "north": 57.149397,
+      "south": 56.549397000000006,
+      "west": 52.906498000000006,
+      "east": 53.506498
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 650000,
+      "area": 420,
+      "createdAt": "2026-01-09T14:08:06.395Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "krsd",
+    "name": "Краснодар",
+    "description": "База данных магазинов Краснодар",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 45.03547,
+      "longitude": 38.975313
+    },
+    "bounds": {
+      "north": 45.335469999999994,
+      "south": 44.73547,
+      "west": 38.675313,
+      "east": 39.275313
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 950000,
+      "area": 340,
+      "createdAt": "2026-01-09T14:08:06.396Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "ksn",
+    "name": "Красноярск",
+    "description": "База данных магазинов Красноярск",
+    "timezone": "Asia/Krasnoyarsk",
+    "center": {
+      "latitude": 56.015283,
+      "longitude": 92.893248
+    },
+    "bounds": {
+      "north": 56.315282999999994,
+      "south": 55.715283,
+      "west": 92.593248,
+      "east": 93.193248
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1100000,
+      "area": 379,
+      "createdAt": "2026-01-09T14:08:06.397Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "kzn",
+    "name": "Казань",
+    "description": "База данных магазинов Казань",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 55.796391,
+      "longitude": 49.108891
+    },
+    "bounds": {
+      "north": 56.096391,
+      "south": 55.496391,
+      "west": 48.808891,
+      "east": 49.408891
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1250000,
+      "area": 425,
+      "createdAt": "2026-01-09T14:08:06.398Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "msk",
+    "name": "Москва",
+    "description": "База данных магазинов Москва",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 55.755826,
+      "longitude": 37.6173
+    },
+    "bounds": {
+      "north": 56.055825999999996,
+      "south": 55.455826,
+      "west": 37.3173,
+      "east": 37.9173
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 12600000,
+      "area": 2561,
+      "createdAt": "2026-01-09T14:08:06.399Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "nn",
+    "name": "Нижний Новгород",
+    "description": "База данных магазинов Нижний Новгород",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 56.326887,
+      "longitude": 44.005986
+    },
+    "bounds": {
+      "north": 56.626886999999996,
+      "south": 56.026887,
+      "west": 43.705986,
+      "east": 44.305986
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1200000,
+      "area": 411,
+      "createdAt": "2026-01-09T14:08:06.401Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "nsk",
+    "name": "Новосибирск",
+    "description": "База данных магазинов Новосибирск",
+    "timezone": "Asia/Novosibirsk",
+    "center": {
+      "latitude": 55.008352,
+      "longitude": 82.935732
+    },
+    "bounds": {
+      "north": 55.308352,
+      "south": 54.708352000000005,
+      "west": 82.635732,
+      "east": 83.235732
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1600000,
+      "area": 505,
+      "createdAt": "2026-01-09T14:08:06.402Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "omsk",
+    "name": "Омск",
+    "description": "База данных магазинов Омск",
+    "timezone": "Asia/Omsk",
+    "center": {
+      "latitude": 54.98848,
+      "longitude": 73.324236
+    },
+    "bounds": {
+      "north": 55.28848,
+      "south": 54.688480000000006,
+      "west": 73.024236,
+      "east": 73.624236
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1100000,
+      "area": 572,
+      "createdAt": "2026-01-09T14:08:06.403Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "prm",
+    "name": "Пермь",
+    "description": "База данных магазинов Пермь",
+    "timezone": "Asia/Yekaterinburg",
+    "center": {
+      "latitude": 58.010455,
+      "longitude": 56.229443
+    },
+    "bounds": {
+      "north": 58.310455,
+      "south": 57.710455,
+      "west": 55.929443000000006,
+      "east": 56.529443
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1000000,
+      "area": 800,
+      "createdAt": "2026-01-09T14:08:06.405Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "rnd",
+    "name": "Ростов-на-Дону",
+    "description": "База данных магазинов Ростов-на-Дону",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 47.222078,
+      "longitude": 39.720349
+    },
+    "bounds": {
+      "north": 47.522078,
+      "south": 46.922078000000006,
+      "west": 39.420349,
+      "east": 40.020348999999996
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1100000,
+      "area": 348,
+      "createdAt": "2026-01-09T14:08:06.406Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "smr",
+    "name": "Самара",
+    "description": "База данных магазинов Самара",
+    "timezone": "Europe/Samara",
+    "center": {
+      "latitude": 53.195538,
+      "longitude": 50.101783
+    },
+    "bounds": {
+      "north": 53.495537999999996,
+      "south": 52.895538,
+      "west": 49.801783,
+      "east": 50.401782999999995
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1150000,
+      "area": 382,
+      "createdAt": "2026-01-09T14:08:06.407Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "spb",
+    "name": "Санкт-Петербург",
+    "description": "База данных магазинов Санкт-Петербург",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 59.939095,
+      "longitude": 30.315868
+    },
+    "bounds": {
+      "north": 60.239095,
+      "south": 59.639095000000005,
+      "west": 30.015867999999998,
+      "east": 30.615868
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 5400000,
+      "area": 1439,
+      "createdAt": "2026-01-09T14:08:06.408Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "srt",
+    "name": "Саратов",
+    "description": "База данных магазинов Саратов",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 51.533103,
+      "longitude": 46.034158
+    },
+    "bounds": {
+      "north": 51.833102999999994,
+      "south": 51.233103,
+      "west": 45.734158,
+      "east": 46.334157999999995
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 850000,
+      "area": 394,
+      "createdAt": "2026-01-09T14:08:06.410Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "tmn",
+    "name": "Тюмень",
+    "description": "База данных магазинов Тюмень",
+    "timezone": "Asia/Yekaterinburg",
+    "center": {
+      "latitude": 57.152985,
+      "longitude": 65.541227
+    },
+    "bounds": {
+      "north": 57.452985,
+      "south": 56.852985000000004,
+      "west": 65.24122700000001,
+      "east": 65.841227
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 850000,
+      "area": 235,
+      "createdAt": "2026-01-09T14:08:06.411Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "ufa",
+    "name": "Уфа",
+    "description": "База данных магазинов Уфа",
+    "timezone": "Asia/Yekaterinburg",
+    "center": {
+      "latitude": 54.735147,
+      "longitude": 55.958727
+    },
+    "bounds": {
+      "north": 55.035146999999995,
+      "south": 54.435147,
+      "west": 55.658727000000006,
+      "east": 56.258727
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1100000,
+      "area": 708,
+      "createdAt": "2026-01-09T14:08:06.412Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "vlg",
+    "name": "Волгоград",
+    "description": "База данных магазинов Волгоград",
+    "timezone": "Europe/Volgograd",
+    "center": {
+      "latitude": 48.707067,
+      "longitude": 44.516975
+    },
+    "bounds": {
+      "north": 49.007067,
+      "south": 48.407067000000005,
+      "west": 44.216975000000005,
+      "east": 44.816975
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1000000,
+      "area": 565,
+      "createdAt": "2026-01-09T14:08:06.413Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "vrn",
+    "name": "Воронеж",
+    "description": "База данных магазинов Воронеж",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 51.660598,
+      "longitude": 39.200585
+    },
+    "bounds": {
+      "north": 51.960598,
+      "south": 51.360598,
+      "west": 38.900585,
+      "east": 39.500584999999994
+    },
+    "defaultRadius": 5000,
+    "metadata": {
+      "population": 1000000,
+      "area": 596,
+      "createdAt": "2026-01-09T14:08:06.414Z",
+      "version": "1.0.0"
+    }
+  }
+]
